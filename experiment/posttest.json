@@ -69,8 +69,7 @@
                 "a": "[OH<sup>-</sup>] = NbVb - NaVa / (Va + Vb)",
 			    "b": "pOH = -log[OH-]",
                 "c": "pH = -log[H<sup>+</sup>].",
-                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)
-"
+                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)"
             },
             "correctAnswer": "c"
         }
