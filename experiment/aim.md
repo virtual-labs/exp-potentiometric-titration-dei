@@ -1,1 +1,2 @@
-### Aim of the experiment
+### Potentiometric titration of a strong acid and strong base.
+
