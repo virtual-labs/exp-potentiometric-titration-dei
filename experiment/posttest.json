@@ -1,39 +1,79 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+    "version": 2.0,
+    "questions": [{
+            "question": "Which of the following is a disadvantage of potentiometric titrations?",
+            "answers": {
+                "a": "Turbid, fluorescent, opaque, or colored solutions can be titrated.",
+                "b": "The results are very accurate.",
+                "c": "Mixtures of very diluted solutions can be titrated.",
+                "d": "It is extremely pH sensitive."
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q2. Which of the following is an inappropriate use of an acid-base titration curve?",
+            "answers": {
+                "a": "To select a suitable primary standard for the titration.",
+                "b": "To determine the concentration of the base.",
+                "c": "To determine whether the acid is weak or strong.",
+                "d": "To select a suitable indicator for titration."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q3. Which of the following reference electrodes is not suitable for the electrochemical analysis at a temperature above 80<sup>0</sup>C?
+",
+            "answers": {
+                "a": "Silver-silver chloride electrode.",
+                "b": "Calomel electrode.",
+                "c": "Either silver-silver chloride electrode or calomel electrode.",
+                "d": "Neither silver-silver chloride electrode nor calomel electrode."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q4. Which of the following is a requirement of an indicator in potentiometric titration?",
+            "answers": {
+                "a": "An equivalence point that is close to the stoichiometric point.",
+                "b": "Distinct color change.",
+                "c": "The ability to change from colorless to pink.",
+                "d": "A transition point that is close to the equivalence point."
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q5. What is the use of quinhydrone ?",
+            "answers": {
+                "a": "To determine the hydrogen ion concentration or the pH of a solution.",
+                "b": "Acts as an indicator.",
+                "c": "Finds equivalent point.",
+                "d": "Finds transition point."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q6. Non-aqueous titration is usually carried out for which of the following?",
+            "answers": {
+                "a": "Weakly acidic drug.",
+                "b": "Weakly basic drug.",
+                "c": "Water insoluble drug.",
+                "d": "All the above."
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q7. An electrode whose potential depends on H<sup>+</sup>ion concentration can be used as____________",
+            "answers": {
+                "a": "A reference electrode.",
+                "b": "An indicator electrode.",
+                "c": "Both.",
+                "d": "None."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q8. In a strong acid-base titration, the pH of a mixture at the initial stage is calculated by:-",
+            "answers": {
+                "a": "[OH<sup>-</sup>] = NbVb - NaVa / (Va + Vb)",
+			    "b": "pOH = -log[OH-]",
+                "c": "pH = -log[H<sup>+</sup>].",
+                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)
+"
+            },
+            "correctAnswer": "c"
+        }
+    ]
 }
