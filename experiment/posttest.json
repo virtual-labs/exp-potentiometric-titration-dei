@@ -19,8 +19,7 @@
             },
             "correctAnswer": "a"
         }, {
-            "question": "Q3. Which of the following reference electrodes is not suitable for the electrochemical analysis at a temperature above 80<sup>0</sup>C?
-",
+            "question": "Q3. Which of the following reference electrodes is not suitable for the electrochemical analysis at a temperature above 80<sup>0</sup>C?",
             "answers": {
                 "a": "Silver-silver chloride electrode.",
                 "b": "Calomel electrode.",
@@ -70,8 +69,7 @@
                 "a": "[OH<sup>-</sup>] = NbVb - NaVa / (Va + Vb)",
 			    "b": "pOH = -log[OH-]",
                 "c": "pH = -log[H<sup>+</sup>].",
-                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)
-"
+                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)"
             },
             "correctAnswer": "c"
         }
