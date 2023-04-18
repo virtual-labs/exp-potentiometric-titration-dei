@@ -53,7 +53,7 @@
                 "c": "Qualitative method.",
                 "d": "Chromatographic method."
             },
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         }, {
             "question": "Q7. _____________ is a technique where a solution of known concentration is used to determine the concentration of an unknown solution.",
             "answers": {
@@ -69,9 +69,9 @@
                 "a": "An indicator",
 			    "b": "An instrument",
                 "c": "A burette.",
-                "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)"
+                "d": "A measuring cylinder."
             },
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         }
     ]
 }
