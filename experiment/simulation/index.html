@@ -191,6 +191,31 @@ $(document).ready(function(){
             // $("#step5img").attr("src","assets/img/step5f.png");
             }, 6000);
     });
+	$("#rodn4").click(function(){
+		 $("#voltameter").hide();
+    	$(".followstep4").removeClass("active");
+		$(".followstep5").addClass("active");
+        $("#step1").hide();
+        $("#step2").hide();
+		$("#step3").hide();
+		$("#step3").hide();
+		$("#step4").hide();
+		$("#step5").hide();
+		$("#step6").hide();
+		$("#step7").hide();
+		$("#step8").show();
+		$('#cuso41n').attr('disabled', 'disabled');
+		 $('#cu1n').attr('disabled', 'disabled');
+		 $('#voltametern').removeAttr('disabled', 'disabled');
+		 $('#saltbridagen').attr('disabled', 'disabled');
+		 $('#rodn').attr('disabled', 'disabled');
+		 $('#cuso41nao').attr('disabled', 'disabled');
+		$("#step8img").attr("src","images/meter-reading2.gif");
+		setTimeout(function() {
+    $("#success3").show();
+            // $("#step5img").attr("src","assets/img/step5f.png");
+            }, 6000);
+    });
 	$("#voltametern").click(function(){
 	
     	 $(".inlink").toggleClass('active');
