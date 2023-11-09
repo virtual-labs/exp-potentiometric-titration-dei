@@ -29,5 +29,5 @@ E<sub>cell</sub> = E<sub>cal</sub> - E<sub>Quinhydrone</sub>
 = 0.2422 – (0.699 – 0.0591 pH)
 = 0.2422 – 0.699 + 0.0591 pH
 E<sub>cell</sub> depends on the concentration of the interested ions with which the indicator electrode is in
-contact. The overall cell potential, Ecell is calculated at every interval where the titrant is
+contact. The overall cell potential, E<sub>cell</sub> is calculated at every interval where the titrant is
 measured and added
