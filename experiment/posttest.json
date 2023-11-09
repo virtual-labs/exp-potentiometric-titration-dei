@@ -55,7 +55,7 @@
             },
             "correctAnswer": "d"
         }, {
-            "question": "Q7. An electrode whose potential depends on H<sup>+</sup>ion concentration can be used as____________",
+            "question": "Q7. An electrode whose potential depends on H<sup>+</sup> ion concentration can be used as____________",
             "answers": {
                 "a": "A reference electrode.",
                 "b": "An indicator electrode.",
@@ -67,7 +67,7 @@
             "question": "Q8. In a strong acid-base titration, the pH of a mixture at the initial stage is calculated by:-",
             "answers": {
                 "a": "[OH<sup>-</sup>] = NbVb - NaVa / (Va + Vb)",
-			    "b": "pOH = -log[OH-]",
+			    "b": "pOH = -log[OH<sup>-</sup>]",
                 "c": "pH = -log[H<sup>+</sup>].",
                 "d": "[H<sup>+</sup>] = NaVa-NbVb / (Va+Vb)"
             },
