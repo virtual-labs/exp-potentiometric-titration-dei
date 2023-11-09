@@ -1,7 +1,7 @@
 {
     "version": 2.0,
     "questions": [{
-            "question": "Which of the following is a disadvantage of potentiometric titrations?",
+            "question": "Which of the following is a disadvantage of potentiometric titration?",
             "answers": {
                 "a": "Turbid, fluorescent, opaque, or colored solutions can be titrated.",
                 "b": "The results are very accurate.",
