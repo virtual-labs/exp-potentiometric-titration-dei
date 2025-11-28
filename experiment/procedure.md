@@ -1,3 +1,7 @@
+### Requirements:-
+
+Saturated calomel electrode, platinum electrode, quinhydrone, HCl solution, NaOH solution,potentiometer.<br>
+
 ### Procedure:
 
 ● Wash a saturated calomel electrode and a platinum electrode with double distilled water and dry them with filter paper.
