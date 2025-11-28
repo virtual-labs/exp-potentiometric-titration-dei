@@ -21,10 +21,10 @@ added along the x-axis and the corresponding voltage on the y-axis.</p>
 
 </p>
 <p>A sudden change in potential in the graph of Δ𝐸/Δ𝑉 against the volume of the titrating solution
-will reveal the equivalence point of the reaction.</p>
-<p>Potentiometric titration involves the measurement of E<sub>cell</sub> with the addition of titrant. The
+will reveal the equivalence point of the reaction.
+Potentiometric titration involves the measurement of E<sub>cell</sub> with the addition of titrant. The
 electromotive force of the cell can be represented as:-</p>
-EMF of the cell,
+EMF of the cell,<br>
 E<sub>cell</sub> = E<sub>cal</sub> - E<sub>Quinhydrone</sub>
 = 0.2422 – (0.699 – 0.0591 pH)
 = 0.2422 – 0.699 + 0.0591 pH
