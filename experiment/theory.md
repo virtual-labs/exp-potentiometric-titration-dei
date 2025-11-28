@@ -35,4 +35,4 @@ E <sub> cal</sub> = Calomel Electrode Potential <br>
 E <sub> Quinhydrone </sub> = Quinhydrone Electrode Potential <br>
 E<sub>cell</sub> depends on the concentration of the interested ions with which the indicator electrode is in
 contact. The overall cell potential, E<sub>cell</sub> is calculated at every interval where the titrant is
-measured and added
+measured and added.
