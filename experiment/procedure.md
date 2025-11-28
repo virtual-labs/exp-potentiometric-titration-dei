@@ -1,5 +1,7 @@
 ### Procedure:
 
+● Wash a saturated calomel electrode and a platinum electrode with double distilled water and dry them with filter paper.
+<br>
 ● This experiment requires a saturated calomel electrode and a platinum electrode. Wash the electrodes with double distilled water and dry them with filter paper.
 <br>
 ● Pipette out 25 ml of the aqueous hydrochloric acid solution in a 250 ml beaker.
@@ -12,9 +14,6 @@
 <br>
 ● Fill the burette with a standard solution of 0.1 N sodium hydroxide.
 <br>
-● Use a burette clamp to hold the burette.
-<br>
-
 
 ● In the beaker with the given solution, add 2 ml of 0.1 N NaOH solution with the help of a burette.
 <br>
