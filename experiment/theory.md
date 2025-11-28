@@ -28,6 +28,11 @@ EMF of the cell,<br>
 E<sub>cell</sub> = E<sub>cal</sub> - E<sub>Quinhydrone</sub><br>
 = 0.2422 – (0.699 – 0.0591 pH)<br>
 = 0.2422 – 0.699 + 0.0591 pH<br>
+Where,<br>
+EMF = Electromotive Force <br>
+E<sub> cell</sub> = Cell Potential <br>
+E <sub> cal</sub> = Calomel Electrode Potential <br>
+E <sub> Quinhydrone </sub> = Quinhydrone Electrode Potential <br>
 E<sub>cell</sub> depends on the concentration of the interested ions with which the indicator electrode is in
 contact. The overall cell potential, E<sub>cell</sub> is calculated at every interval where the titrant is
 measured and added
