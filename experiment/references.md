@@ -1,6 +1,6 @@
 ### References:
 
-● Egyankosh: Potentiometric titration of strong acid with a strong base using quinhydrone electrode (https://egyankosh.ac.in/bitstream/123456789/43276/1/Exp-3.pdf).
+● Egyankosh: Potentiometric titration of strong acid with a strong base using quinhydrone electrode.<br> (https://egyankosh.ac.in/bitstream/123456789/43276/1/Exp-3.pdf).
 <br>
 ● Mustansiriyah University, Baghdad, Iraq: Potentiometric titration of strong acid with strong base.<br> (https://uomustansiriyah.edu.iq/media/lectures/6/6_2020_09_26!06_56_24_PM.pdf).<br>
 ● Chemistry LibreTexts: Titration of a Strong Acid With A Strong base.<br>
