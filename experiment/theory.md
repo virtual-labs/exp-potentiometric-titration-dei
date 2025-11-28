@@ -1,11 +1,11 @@
 ### Theory:
-Potentiometric titration is a type of voltammetric analysis. It is used to determine the
+<p>Potentiometric titration is a type of voltammetric analysis. It is used to determine the
 concentration of an analyte (strong acid or base) in a sample and the titration is performed using
 a titrant of known concentration. After performing the titration, the potential difference between
 the reference and indicator electrode is measured in conditions where a thermodynamic
 equilibrium is maintained and the current through the electrodes does not disturb this
-equilibrium.
-Potentiometric determination of endpoint depends on the potential across two electrodes
+equilibrium.</p>
+<p>Potentiometric determination of endpoint depends on the potential across two electrodes
 immense into a solution. The potential is measured in millivolts using electrodes. By using the
 measurements of electric potential, the equivalence point can be determined. The potential of the
 solution depends on the nature and the concentration of ions present. In this experiment,
@@ -15,15 +15,15 @@ Along with this, a platinum electrode and saturated calomel electrode are connec
 potentiometer and the electrodes are dipped in the beaker. The prepared standard NaOH solution
 is filled in a burette and added in a small volume to the beaker. The value displayed on the
 potentiometer is noted after each addition. A graph is plotted by taking the volume of NaOH
-added along the x-axis and the corresponding voltage on the y-axis.
+added along the x-axis and the corresponding voltage on the y-axis.</p>
 <p>
 <img src="images/theory.png" alt="Figure1">
 
 </p>
-A sudden change in potential in the graph of Δ𝐸/Δ𝑉 against the volume of the titrating solution
-will reveal the equivalence point of the reaction.
-Potentiometric titration involves the measurement of E<sub>cell</sub> with the addition of titrant. The
-electromotive force of the cell can be represented as:-
+<p>A sudden change in potential in the graph of Δ𝐸/Δ𝑉 against the volume of the titrating solution
+will reveal the equivalence point of the reaction.</p>
+<p>Potentiometric titration involves the measurement of E<sub>cell</sub> with the addition of titrant. The
+electromotive force of the cell can be represented as:-</p>
 EMF of the cell,
 E<sub>cell</sub> = E<sub>cal</sub> - E<sub>Quinhydrone</sub>
 = 0.2422 – (0.699 – 0.0591 pH)
