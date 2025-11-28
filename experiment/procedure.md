@@ -14,7 +14,6 @@
 <br>
 ● Fill the burette with a standard solution of 0.1 N sodium hydroxide.
 <br>
-
 ● In the beaker with the given solution, add 2 ml of 0.1 N NaOH solution with the help of a burette.
 <br>
 ● Stir the solution in the beaker with the help of a glass rod and measure the E.M.F.
