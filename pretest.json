@@ -1,0 +1,77 @@
+{
+    "version": 2.0,
+    "questions": [{
+            "question": "Q1. ____________ is a chemical method of analysis in which the electric potential is measured across the analyte, typically an electrolyte solution.",
+            "answers": {
+                "a": "Voltammetry.",
+                "b": "Potentiometric titrations.",
+                "c": "Amperometric titrations.",
+                "d": "Conductometric titrations."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q2. Which of the following statements is correct for potentiometric titrations? (I). Potentiometric titrations are suitable for colored or turbid reactions.,(II). The EMF of the cell is zero at the equivalence point.,(III).The experimental study does not get influenced by liquid junction potentials.,(IV).Potentiometric titrations are not suitable for analysis of dilute solutions less than 0.001 M.",
+            "answers": {
+                "a": "I, III, IV",
+                "b": "I, II, III",
+                "c": "II, III, IV",
+                "d": "I, II, IV"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q3. In a potentiometric titration, the endpoint of a titration is determined by measuring _________.?",
+            "answers": {
+                "a": "Conductance.",
+                "b": "Density.",
+                "c": "The potential of an electrode.",
+                "d": "The quantity of indicator."
+            },
+            "correctAnswer": "c"
+        }, {
+            "question": "Q4. Potentiometric titration is used in a nonaqueous titration when the color of the solution is __________.?",
+            "answers": {
+                "a": "Low.",
+                "b": "High.",
+                "c": "Both.",
+                "d": "None."
+            },
+            "correctAnswer": "c"
+        }, {
+            "question": "Q5. Which of the following statements is true for the reference electrode?",
+            "answers": {
+                "a": "Silver-silver chloride electrode is thermally more stable",
+                "b": "Calomel electrode is thermally more stable.",
+                "c": "Both a and b are unstable.",
+                "d": "Both a and b are equally stable."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q6. Potentiometry is a type of ___________?",
+            "answers": {
+                "a": "Classical method.",
+                "b": "Electro-chemical method.",
+                "c": "Qualitative method.",
+                "d": "Chromatographic method."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q7. _____________ is a technique where a solution of known concentration is used to determine the concentration of an unknown solution.",
+            "answers": {
+                "a": "Analysis.",
+                "b": "Titration.",
+                "c": "Titrant.",
+                "d": "Voltammetry."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q8. In a potentiometric titration, the endpoint can be determined by a change in color with the help of _________.",
+            "answers": {
+                "a": "An indicator",
+			    "b": "An instrument",
+                "c": "A burette.",
+                "d": "A measuring cylinder."
+            },
+            "correctAnswer": "a"
+        }
+    ]
+}
