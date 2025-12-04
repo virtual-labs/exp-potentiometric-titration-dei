@@ -18,7 +18,7 @@ potentiometer is noted after each addition. A graph is plotted by taking the vol
 added along the x-axis and the corresponding voltage on the y-axis.The following graph represents a steep rise in the curve that indicates the equivalence point.</p>
 <div style="text-align: center;">
 
-    <img src="images/theory.png" alt="Fig. A titration curve. Source: Egyankosh" width="450px" height="450px">
+    <img src="images/theoryfinal.png" alt="Fig. A titration curve. Source: Egyankosh" width="450px" height="450px">
 
   </div>
 <p>A sudden change in potential in the graph of Δ𝐸/Δ𝑉 against the volume of the titrating solution
