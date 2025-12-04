@@ -17,7 +17,7 @@ is filled in a burette and added in a small volume to the beaker. The value disp
 potentiometer is noted after each addition. A graph is plotted by taking the volume of NaOH
 added along the x-axis and the corresponding voltage on the y-axis.</p>
 <p>
-<img src="images/theory.png" alt="Figure1">
+<img src="images/theory.png" alt="Fig. A titration curve. Source: Egyankosh">
 
 </p>
 <p>A sudden change in potential in the graph of Δ𝐸/Δ𝑉 against the volume of the titrating solution
