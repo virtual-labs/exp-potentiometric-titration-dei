@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Chemical Binding(Chemistry)
 :--|:--|
-<b> Lab | <b> Electroanalytical Virtual Laboratory
+<b> Lab | <b> Potentiometric titration of a strong acid and strong base.
 <b> Experiment|  <b>Electrolytic Concentration Cell
 
 ### About the Experiment 
