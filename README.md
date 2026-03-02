@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Chemical Binding(Chemistry)
+<b>Discipline | <b>Chemical Sciences(Chemistry)
 :--|:--|
 <b> Lab | <b> Potentiometric titration of a strong acid and strong base.
 <b> Experiment|  <b>Electrolytic Concentration Cell
